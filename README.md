@@ -12,6 +12,10 @@ University of Washington.
 | [kokuban-agent-board](https://github.com/52kokada/kokuban-agent-board) | Coordination server for Claude Code, Codex and Kimi Code sessions: presence, messaging, resource locks and task hand-off. |
 | [tobirainbox](https://github.com/52kokada/tobirainbox) | Reply console for small-business Gmail. It classifies mail and drafts replies with Claude, and a person reviews every reply before it is sent. |
 
+## Case studies
+
+- [Booking and payments for a Japanese SME](case-studies/booking-system.md): a 2013 WordPress site replaced by a booking and card-payment system on Cloudflare Workers, live in 26 days.
+
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/kokada52)
